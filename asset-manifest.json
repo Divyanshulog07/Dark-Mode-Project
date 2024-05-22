@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dark-Mode-Project/static/css/main.513fc138.css",
+    "main.js": "/Dark-Mode-Project/static/js/main.f5d3ed0d.js",
+    "static/js/453.ee843e51.chunk.js": "/Dark-Mode-Project/static/js/453.ee843e51.chunk.js",
+    "index.html": "/Dark-Mode-Project/index.html",
+    "main.513fc138.css.map": "/Dark-Mode-Project/static/css/main.513fc138.css.map",
+    "main.f5d3ed0d.js.map": "/Dark-Mode-Project/static/js/main.f5d3ed0d.js.map",
+    "453.ee843e51.chunk.js.map": "/Dark-Mode-Project/static/js/453.ee843e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.513fc138.css",
+    "static/js/main.f5d3ed0d.js"
+  ]
+}
